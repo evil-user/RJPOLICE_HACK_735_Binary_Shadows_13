@@ -4,6 +4,7 @@ Problem Statement:
 Developing a decentralized application on a blockchain platform that allows users to anonymously 
 report crimes through photos or videos. The goal is to create a secure, transparent, and trust worthy 
 system that empowers individuals to contribute to public safety without fear of retaliation.
+
 Solution:
 1. Anonymity and Privacy:
 Ensuring that users can submit crime reports without revealing their identity. Implementing robust 
@@ -37,6 +38,7 @@ compromise user anonymity.
 10. Legal and Ethical Considerations:
 Address legal and ethical considerations surrounding the use of anonymous crime reporting. 
 Ensure compliance with data protection laws and establish guidelines for responsible platform use.
+
 Some Future Features:
 1. Anonymous Chats with Police Department:
 By incorporating anonymous chats with Police Department, App can be more comprehensive and 
@@ -54,6 +56,7 @@ Creating discussion forums or community boards where users can discuss safety co
 information, and collaborate on solutions.
 5. Localized Language Support:
 Providing support for multiple languages to make the App accessible to a diverse user base.
+
 Software and Technology:
 1. Blockchain Platform:
 • Ethereum
@@ -68,6 +71,7 @@ Software and Technology:
 • GitHub
 6. Testing:
 • Truffle
+
 Team Members and Responsibilities:
 1. Vatsal Tibrewal – Contract Development and Integration
 2. Aditya Sharma – Front-end Development and Management
